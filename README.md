@@ -8,4 +8,4 @@ Andrew Ng
 Erin Wills 
 
 ### Description
-We are analyzing something.
+We are creating a merge conflict 
