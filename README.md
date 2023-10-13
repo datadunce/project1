@@ -6,3 +6,6 @@ project one demo for NU bootcamp
 Will Wright
 Andrew Ng
 Erin Wills 
+
+### Description
+We are analyzing something.
